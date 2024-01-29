@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\8bit\\source\\repos\\add-cart-exam\\add-cart-exam.Server\\..\\add-cart-exam.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
